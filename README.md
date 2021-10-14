@@ -1,3 +1,7 @@
+# DISCLAIMER
+This is a fork aimed to fix a bug in the library for a specific use.
+I am not the owner of this project please see below for any information on the owner of this project
+
 PDF Filler (Node.js)
 ======
 [![NPM](https://nodei.co/npm/pdffiller.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdffiller/)
