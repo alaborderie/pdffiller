@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "lodash": "~4.17.11",
-    "utf8-fdf-generator": "https://github.com/alaborderie/utf8-fdf-generator"
+    "utf8-fdf-generator": "git+https://github.com/alaborderie/utf8-fdf-generator"
   },
   "author": {
     "name": "John Taylor and David Baldwynn"
